@@ -1,0 +1,13 @@
+# Exclude unnecessary files
+index.php
+admin/
+gates/
+tools/
+cookie.txt
+cookies.txt
+download.ps1
+error_log
+errors.log
+composer.phar
+blackbox_mcp_settings.json
+TODO.md

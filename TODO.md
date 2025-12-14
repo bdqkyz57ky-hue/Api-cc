@@ -1,0 +1,4 @@
+- [x] Fix gates/AdyenAuth.php: Remove duplications, define missing variables ($firstname, $lastname), correct $tok to $id, align email generation, fix BIN lookup, align approval logic with api/adyen_auth.php.
+- [x] Verify gates/AdyenAuth.php works correctly.
+- [x] Proceed to api/adyen_auth.php if needed.
+- [ ] Check other files in gates/ and api/ for consistency.
